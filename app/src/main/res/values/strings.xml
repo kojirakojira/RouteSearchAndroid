@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RouteSearch</string>
+    <string name="input_text">駅名を入力</string>
+    <string name="station_icon">駅</string>
+    <string name="input_button">検索</string>
+    <string name="searchResult">SearchResult</string>
+    <string name="text_view4">駅名</string>
+    <string name="text_view5">駅ID</string>
+    <string name="text_view6">路線ID</string>
+    <string name="backMain">戻る</string>
+    <string name="search">路線検索</string>
+    <string name="route_search">ルート検索</string>
+    <string name="station_icon1">駅1</string>
+    <string name="station_icon2">駅2</string>
+</resources>
